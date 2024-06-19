@@ -1,1 +1,1 @@
-# JuegoTrexEpikaso
+# Juegos-compatibles-con-dispositivos
